@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=teja00.teja00)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<a href="https://teja00.github.io/portfolio">
+    <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="tejanagubandi" width="48" height="48" style="padding-top: 2px;"/>
+</a>
+
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=teja00&theme=dark&hide_border=true&border_radius=20&card_width=1200&card_height=30)](https://git.io/streak-stats)
 

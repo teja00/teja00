@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=teja00.teja00)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=teja00.teja00) -->
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <a href="https://teja00.github.io/portfolio">
     <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="tejanagubandi" width="48" height="48" style="padding-top: 2px;"/>
@@ -47,12 +48,15 @@ class MasterStudent:
     def reach_me_put(self):
         print("Drop me a mail at tejanagubandi00@gmail.com")
 
-    def current_research_interest(self):
-        print("I’m currently doing my research on Scalable Distributed Training with Augmented Losses")
-
+    def current_interest(self):
+        print("🔬 Current Research: Scalable Distributed Training with Augmented Losses")
+        print("🚀 Active Projects:")
+        print("  - BuildingBlocks: A lightweight library for linear algebra and statistical computations using PyTorch and Nbdev.")
+        print("    Documentation: https://github.com/teja00/BuildingBlocks")
+        print("  - Go Backend Project: Building an efficient, scalable backend service with Go.")
 
 me = MasterStudent()
 me.say_hi()
 me.reach_me_out()
-me.current_research_interest()
+me.current_interest()
 ```

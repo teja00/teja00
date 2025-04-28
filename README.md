@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teja00&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teja00&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="150"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=teja00&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teja00&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="175"/>
 </p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=teja00&theme=dark&hide_border=true&border_radius=20&card_width=1200&card_height=30" alt="GitHub Streak" />

@@ -18,17 +18,28 @@ Here are some ideas to get you started:
 
 # Hello there 👋
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=teja00.teja00) -->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<a href="https://teja00.github.io/portfolio">
-    <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="tejanagubandi" width="48" height="48" style="padding-top: 2px;"/>
-</a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=teja00&label=Profile%20views&color=0e75b6&style=flat" alt="teja00" />
+    <a href="https://github.com/ellerbrock/open-source-badge/">
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
+    </a>
+    <a href="https://teja00.github.io/portfolio">
+        <img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="tejanagubandi" width="48" height="48" style="padding-top: 2px;"/>
+    </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teja00&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&border_radius=20" alt="Top Languages" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=teja00&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="200"/>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=teja00&theme=dark&hide_border=true&border_radius=20&card_width=1200&card_height=30" alt="GitHub Streak" />
+  </a>
+</p>
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=teja00&theme=dark&hide_border=true&border_radius=20&card_width=1200&card_height=30)](https://git.io/streak-stats)
 
 ```python
 #!/usr/bin/python
@@ -60,3 +71,9 @@ me.say_hi()
 me.reach_me_out()
 me.current_interest()
 ```
+
+
+
+
+
+

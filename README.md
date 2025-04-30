@@ -35,12 +35,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=teja00&show_icons=true&locale=en&theme=dark&hide_border=true&border_radius=20" alt="GitHub Stats" height="175"/>
 </p>
 
+<!--
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=teja00&theme=dark&hide_border=true&border_radius=20&card_width=1200&card_height=30" alt="GitHub Streak" />
   </a>
 </p>
-
+!-->
 
 ```python
 #!/usr/bin/python
